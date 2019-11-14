@@ -1,1 +1,7 @@
 this is test file for add to git repo
+
+new commit agin in repo
+
+
+
+     new changes in git repo add file
